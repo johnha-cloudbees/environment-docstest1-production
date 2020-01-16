@@ -2,6 +2,9 @@ dependencies:
 - name: acmenodehttp
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
+- name: acmeshoppingcart
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
